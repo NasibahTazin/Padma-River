@@ -14,3 +14,24 @@ text-align: center;}
     border: 01px, solid black;
     text-align: justify;
     background-color: rgb(201, 110, 243);}
+
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        
+    }
+    
+    .box{
+        width: 400px; height: auto;
+        color: #134b46;
+        text-align: justify;
+        margin: 100px auto;}
+        
+    .box h2{
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;}
+    .box img{
+       width: 500px;
+       height: auto;}
